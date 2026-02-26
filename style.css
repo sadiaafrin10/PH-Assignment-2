@@ -37,9 +37,6 @@ background: linear-gradient(to top right, #f7e93f, #fb09b4, #9100f8);
   opacity: 0.8;
 
 }
-
-
-
 /* header */
 .banner-bg-img{
     background-image: url('../assets/hero-bg.png');
@@ -65,9 +62,6 @@ width: 350px;
 max-width: 1200px;
 margin: 0 auto;
 }
-
-
-
 
 /* choose techWave styles */
 .choose-card{
