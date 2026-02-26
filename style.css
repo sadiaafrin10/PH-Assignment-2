@@ -19,6 +19,7 @@ body {
 .gradient-color{
 background: linear-gradient(to top right, #f7e93f, #fb09b4, #9100f8);
 -webkit-background-clip: text;
+background-clip: text; 
 -webkit-text-fill-color: transparent;
 }
 .gradient-btn {
